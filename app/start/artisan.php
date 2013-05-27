@@ -10,4 +10,5 @@
 | the console gets access to each of the command object instances.
 |
 */
-
+Artisan::add(new CreateVhostCommand);
+Artisan::add(new ShowVhostCommand);
