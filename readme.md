@@ -20,7 +20,7 @@ thats all there is you are good to go .
 * [Bootstrap 2.3.2](http://twitter.github.io/bootstrap/) This is my second love
 * [Html 5 Boilerplate](http://html5boilerplate.com/) Great job guys
 * [Jeffery way's Generators](https://github.com/JeffreyWay/Laravel-4-Generators) This guy is amazing developer and best tutor, i learnt many things from Jeffery Way check out his works on [Nettuts](http://net.tutsplus.com/) . He also has a amazing book on Laravel TDD [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
-*[confide](https://github.com/Zizaco/confide) Super Easy user Authentication
+* [confide](https://github.com/Zizaco/confide) Super Easy user Authentication
 * [Laravel vhost Generator](https://github.com/honavarsohaan/laravel4-vhost) (Windows Only) 
 
 
